@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+.header--main {
+ font-size: 20px;
+ color: white;
+
+}
+.header--secondary {
+ font-size: 20px;
+ color: blueviolet;
+    
+}
+
+
+
+.header--sub-header {
+font-size: 20px;
+ color: aqua; 
+}
+.link-cta {
+ font-size: 20px;
+ color: white;
+}
